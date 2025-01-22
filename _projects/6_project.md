@@ -1,80 +1,97 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: PL-TOON Platform
+description: A Low-Cost Experimental Platform for Vehicle Formation Control
+img: assets/img/pl-toon/platform.jpg
+importance: 1
+category: platforms
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+PL-TOON (Programmable Low-cost Train platOON) is an innovative experimental platform designed for research and education in vehicle formation control and platooning.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pl-toon/overview.jpg" title="PL-TOON Platform Overview" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pl-toon/vehicles.jpg" title="Autonomous Vehicles" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pl-toon/control.jpg" title="Control Interface" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Left: The complete PL-TOON experimental setup. Middle: Individual autonomous vehicles in formation. Right: Real-time control and monitoring interface.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Key Features
+
+The platform provides a cost-effective solution for validating theoretical results in formation control, string stability, and multi-agent systems. It combines hardware and software components to create a flexible research environment.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/pl-toon/demo.jpg" title="Platform Demo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/pl-toon/architecture.jpg" title="System Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Left: Platform demonstration during an experiment. Right: System architecture diagram showing the communication and control structure.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+### Hardware Components
+- Custom-designed chassis and track system
+- ESP32-based control units
+- Infrared sensors for position detection
+- Wireless communication modules
+- DC motors with encoders
 
-{% raw %}
+### Software Architecture
+- Arduino-compatible firmware
+- Python-based control interface
+- Real-time data visualization
+- Open-source codebase
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/pl-toon/results.jpg" title="Experimental Results" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
+<div class="caption">
+    Sample experimental results showing vehicle formation performance and string stability analysis.
+</div>
 
-{% endraw %}
+## Research Applications
+
+The platform has been successfully used in various research projects:
+
+1. **String Stability Analysis**
+   - Validation of theoretical stability conditions
+   - Testing of different communication protocols
+   - Performance evaluation under delays
+
+2. **Formation Control**
+   - Implementation of various control strategies
+   - Testing of adaptive algorithms
+   - Validation of theoretical results
+
+<div class="row">
+    <div class="col-12 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/pl-toon/applications.jpg" title="Research Applications" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Different research applications of the PL-TOON platform, from basic formation control to complex multi-vehicle coordination.
+</div>
+
+## Resources and Documentation
+
+All platform resources are open-source and available through our [GitHub repository](https://github.com/pl-toon/pl-toon-codes). This includes:
+- Technical documentation
+- Setup guides
+- Example code
+- Research data
+- Educational materials
+
+For more information about getting involved with the project, contact [andres.peters@uai.cl](mailto:andres.peters@uai.cl).

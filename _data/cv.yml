@@ -2,96 +2,135 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Andrés Alejandro Peters Rivas
+    - name: Current Position
+      value: Assistant Professor (UAI)
+    - name: Faculty/School
+      value: Faculty of Engineering and Sciences
     - name: Languages
-      value: English, German
+      value: Spanish, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Mathematics
+      institution: National University of Ireland, Maynooth
+      country: Ireland
+      year: 2010 - 2015
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Awarded Chile Scholarship and NUIM Best International Students Scholarship
+    - title: Magíster en Ciencia de la Ingeniería Electrónica
+      institution: Universidad Técnica Federico Santa María
+      country: Chile
+      year: 2002 - 2007
       description:
-        - Description 1.
-        - Description 2.
+        - Ranked 1st in the cohort
+    - title: Ingeniero Civil Electrónico
+      institution: Universidad Técnica Federico Santa María
+      country: Chile
+      year: 2002 - 2007
+      description:
+        - Ranked 1st among all career programs of the 2002 cohort
 
-- title: Experience
+- title: Academic Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Assistant Professor
+      institution: Universidad Adolfo Ibáñez (UAI)
+      year: 2021 - Present
+    - title: Researcher and Instructor
+      institution: Universidad Técnica Federico Santa María (UTFSM)
+      year: 2016 - 2020
+    - title: Visiting Researcher
+      institution: Hamilton Institute, NUIM
+      year: Summer 2007
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Decentralized Formation Control of Multi-Agent Systems
+      role: Principal Investigator
+      funding: Fondecyt Iniciation (ANID)
+      year: 2022 - 2025
+      description:
+        - Research on platooning applications under unreliable communication
+    - title: Intelligent Transport Systems
+      role: Co-Investigator
+      funding: Internal AC3E
+      year: 2018 - Present
+      description:
+        - Collaborative research with Dr. Francisco Vargas
+    - title: Theoretical Aspects of Formation Control of Vehicular Platoons
+      role: Principal Investigator
+      funding: Fondecyt Postdoctoral Fellowship
+      year: 2016 - 2018
+      description:
+        - Ranked #1 in the Engineering study group
 
-- title: Honors and Awards
-  type: time_table
+- title: Publications
+  type: nested_list
   contents:
-    - year: 1921
+    - title: Automation & Control Systems
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - "An Algebraic Formula for Performance Bounds of a Weighted H-infinity Optimal Control Problem. IEEE Transactions on Automatic Control, 2020."
+        - "Leader tracking in homogeneous vehicle platoons with broadcast delays. Automatica, 2014."
+    - title: Multi-Agent Systems
       items:
-        - Max Planck Medal
+        - "Formation Control for Singular Cucker-Smale Interactions. SIAM Journal on Applied Dynamical Systems, 2019."
+        - "PL-TOON: A Low-Cost Experimental Platform for Decentralized Cooperative Control. Sensors, 2021."
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Modelado y Control de Sistemas Multi-agente
+      institution: Universidad Adolfo Ibáñez
+      level: Postgraduate
+      year: 2024
+      evaluation: 6.3/7.0
+    - title: Simulación, Automatización y Mecatrónica
+      institution: Universidad Adolfo Ibáñez
+      level: Undergraduate
+      year: 2023
+      evaluation: 6.7/7.0
+    - title: Métodos Matemáticos en Control Automático
+      institution: UTFSM
+      level: Graduate
+      year: 2016 - 2018
+      evaluation: 3.7-4.0/4.0
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Decentralized Control
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Formation control in vehicular platoons
+        - Multi-agent systems with wireless communication
+    - title: Automation & Robotics
       items:
-        - Description 1.
-        - Description 2.
+        - Cooperative control algorithms
+        - Experimental platforms for teaching and research
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: PL-TOON Codes
+      year: 2023
+      description:
+        - GitHub-hosted codebase for experimental platforms in control education
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items:
+        - Best Professor in Mechanical Engineering Courses (UAI)
+    - year: 2007
+      items:
+        - Ranked 1st in cohort (UTFSM)
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Robotics, Chess, Software Development
+    - <u>Volunteering:</u> Engineering education outreach
+
