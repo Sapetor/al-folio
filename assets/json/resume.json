@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Andrés Alejandro Peters Rivas",
-    "label": "Assistant Professor",
+    "label": "Associate Professor",
     "image": "",
     "email": "",
     "phone": "",
     "url": "",
-    "summary": "Assistant Professor at the Faculty of Engineering and Sciences (UAI), specializing in decentralized control, automation, and robotics.",
+    "summary": "Associate Professor at the Faculty of Engineering and Sciences (UAI), specializing in decentralized control, automation, and robotics.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -19,10 +19,19 @@
   "work": [
     {
       "name": "Universidad Adolfo Ibáñez",
+      "position": "Associate Professor",
+      "url": "",
+      "startDate": "2025-17-01",
+      "endDate": "",
+      "summary": "Teaching and research in automation, robotics, and multi-agent systems.",
+      "highlights": []
+    },
+    {
+      "name": "Universidad Adolfo Ibáñez",
       "position": "Assistant Professor",
       "url": "",
-      "startDate": "2021-01-01",
-      "endDate": "",
+      "startDate": "2021-03-01",
+      "endDate": "2025-17-01",
       "summary": "Teaching and research in automation, robotics, and multi-agent systems.",
       "highlights": []
     },

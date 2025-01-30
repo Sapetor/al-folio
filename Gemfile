@@ -18,7 +18,10 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
+    # Only include mini_racer if not on Windows
+    install_if -> { RUBY_PLATFORM !~ /mingw|mswin|windows/ } do
+        gem 'mini_racer'
+    end
     gem 'unicode_utils'
     gem 'webrick'
 end
