@@ -1,16 +1,15 @@
 {
   "basics": {
     "name": "Andrés Alejandro Peters Rivas",
-    "label": "Associate Professor",
     "image": "",
-    "email": "",
-    "phone": "",
+    "email": "andres.peters@uai.cl",
+    "phone": "+56 9 6215 5944",
     "url": "",
     "summary": "Associate Professor at the Faculty of Engineering and Sciences (UAI), specializing in decentralized control, automation, and robotics.",
     "location": {
-      "address": "",
+      "address": "Diagonal Las Torres 2640, Of. 309-D",
       "postalCode": "",
-      "city": "",
+      "city": "Peñalolén, Santiago.",
       "countryCode": "CL",
       "region": "Chile"
     },
@@ -18,29 +17,38 @@
   },
   "work": [
     {
-      "name": "Universidad Adolfo Ibáñez",
+      "name": "Universidad Adolfo Ibáñez - Facultad de Ingeniería y Ciencias",
       "position": "Associate Professor",
-      "url": "",
+      "url": "https://ingenieria.uai.cl/profesor/andres-peters/",
       "startDate": "2025-17-01",
       "endDate": "",
       "summary": "Teaching and research in automation, robotics, and multi-agent systems.",
       "highlights": []
     },
     {
-      "name": "Universidad Adolfo Ibáñez",
+      "name": "Universidad Adolfo Ibáñez - Facultad de Ingeniería y Ciencias",
       "position": "Assistant Professor",
-      "url": "",
+      "url": "https://ingenieria.uai.cl/",
       "startDate": "2021-03-01",
       "endDate": "2025-17-01",
       "summary": "Teaching and research in automation, robotics, and multi-agent systems.",
       "highlights": []
     },
     {
-      "name": "Universidad Técnica Federico Santa María",
-      "position": "Researcher and Instructor",
-      "url": "",
-      "startDate": "2016-01-01",
-      "endDate": "2020-12-31",
+      "name": "Universidad Tecnológica Metropolitana - Departamendo de Electricidad",
+      "position": "Assistant Professor",
+      "url": "https://fing.utem.cl/escuelas-y-departamentos/",
+      "startDate": "2019-03-01",
+      "endDate": "2021-02-28",
+      "summary": "Teaching and research in automation, robotics, and multi-agent systems.",
+      "highlights": []
+    },
+    {
+      "name": "Universidad Técnica Federico Santa María - Departamento de Electrónica",
+      "position": "Postdoctoral Researcher and Instructor",
+      "url": "https://electronica.usm.cl/",
+      "startDate": "2015-10-01",
+      "endDate": "2019-02-28",
       "summary": "Conducted research in intelligent transport systems and methods in automatic control.",
       "highlights": []
     }
@@ -49,7 +57,7 @@
     {
       "institution": "National University of Ireland, Maynooth",
       "location": "Maynooth, Ireland",
-      "url": "",
+      "url": "https://www.maynoothuniversity.ie/hamilton",
       "area": "Mathematics",
       "studyType": "PhD",
       "startDate": "2010-06-01",
@@ -60,50 +68,24 @@
     {
       "institution": "Universidad Técnica Federico Santa María",
       "location": "Valparaíso, Chile",
-      "url": "",
-      "area": "Engineering",
-      "studyType": "Magister",
+      "url": "https://electronica.usm.cl/investigacion/postgrado/#magister",
+      "area": "Electronics Engineering, Control and Automation",
+      "studyType": "MSc",
+      "startDate": "2005-03-01",
+      "endDate": "2007-06-01",
+      "score": "1st in cohort",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Técnica Federico Santa María",
+      "location": "Valparaíso, Chile",
+      "url": "https://electronica.usm.cl/",
+      "area": "Electronics Engineering",
+      "studyType": "BSc",
       "startDate": "2002-03-01",
       "endDate": "2007-06-01",
       "score": "1st in cohort",
       "courses": []
-    }
-  ],
-  "projects": [
-    {
-      "name": "PL-TOON Codes",
-      "summary": "Development of an experimental platform for decentralized cooperative control in education.",
-      "highlights": ["Hosted on GitHub for global access"],
-      "startDate": "2023-01-01",
-      "endDate": "",
-      "url": "https://github.com/pl-toon/pl-toon-codes"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Formation Control for Singular Cucker-Smale Interactions",
-      "publisher": "SIAM Journal on Applied Dynamical Systems",
-      "releaseDate": "2019-01-01",
-      "url": "",
-      "summary": "Research on multi-agent systems and decentralized control."
-    },
-    {
-      "name": "PL-TOON: A Low-Cost Experimental Platform",
-      "publisher": "Sensors",
-      "releaseDate": "2021-01-01",
-      "url": "",
-      "summary": "An innovative teaching and research platform."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Decentralized Control",
-      "level": "Expert",
-      "keywords": [
-        "Multi-agent systems",
-        "Vehicular platoons",
-        "Wireless communication"
-      ]
     }
   ],
   "languages": [
@@ -113,7 +95,11 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Professional Proficiency"
+    },
+    {
+      "language": "Polish",
+      "fluency": "Basic"
     }
   ]
 }

@@ -51,15 +51,4 @@ nav_order: 5
 
 ## Student Supervision
 
-### Current Graduate Students
-- Multiple Master's students researching multi-agent robotics and machine learning (Expected graduation: 2024)
-
-### Past Supervision
-#### Master's Theses
-- "Evaluation of Wireless Communication Protocols ESP-NOW for Use in Formation Control of Multi-agent Systems" (2023)
-
-#### Undergraduate Theses
-- "Experimental Platform for Teaching and Research on Decentralized Cooperative Control"
-- "Autonomous Train System for Vehicle Formation Control Studies"
-- "QR Code-based Path Detection for Autonomous Train Platform"
-- "Simulator for Nonlinear Cucker-Smale Type Multi-agent Systems"
+   - TBU
