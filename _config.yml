@@ -7,10 +7,10 @@ first_name: Andrés
 middle_name: A.
 last_name: Peters
 email: andres.peters@uai.cl
-description: > 
+description: >
   Academic website of Andres Peters. Associate Professor at the Faculty of Engineering 
   and Sciences, Universidad Adolfo Ibáñez, Santiago, Chile.
-keywords: control systems, vehicle platoons, string stability, formation control  # based on your papers
+keywords: control systems, vehicle platoons, string stability, formation control # based on your papers
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -35,7 +35,6 @@ address: >
   Diagonal Las Torres 2640, Of. 309-D,
   Peñalolén, Santiago,
   Chile
-
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -223,9 +222,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
-
-
-
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
@@ -338,13 +334,10 @@ scholar:
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
-  
- 
 
   sort_by: year
   order: descending
   group_by: none
-
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid

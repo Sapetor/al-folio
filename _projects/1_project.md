@@ -41,6 +41,7 @@ The platform provides a cost-effective solution for validating theoretical resul
 </div>
 
 ### Hardware Components
+
 - Custom-designed chassis and track system
 - ESP32-based control units
 - Infrared sensors for position detection
@@ -48,6 +49,7 @@ The platform provides a cost-effective solution for validating theoretical resul
 - DC motors with encoders
 
 ### Software Architecture
+
 - Arduino-compatible firmware
 - Python-based control interface
 - Real-time data visualization
@@ -67,6 +69,7 @@ The platform provides a cost-effective solution for validating theoretical resul
 The platform has been successfully used in various research projects:
 
 1. **String Stability Analysis**
+
    - Validation of theoretical stability conditions
    - Testing of different communication protocols
    - Performance evaluation under delays
@@ -88,6 +91,7 @@ The platform has been successfully used in various research projects:
 ## Resources and Documentation
 
 All platform resources are open-source and available through our [GitHub repository](https://github.com/pl-toon/pl-toon-codes). This includes:
+
 - Technical documentation
 - Setup guides
 - Example code
