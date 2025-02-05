@@ -1,33 +1,41 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Fondecyt Regular 2025 results 
+date: 2025-01-27 16:59:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+[![QCar2](https://markdown-videos-api.jorgenkh.no/youtube/gZP2fmB_gDQ)](https://www.youtube.com/watch?v=gZP2fmB_gDQ "Click the image for video!"){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+
+
+
+The grant application for the Fondecyt Regular 2025 (ANID - Chile) contest was awarded to our team! [Link to the results](https://s3.us-east-1.amazonaws.com/documentos.anid.cl/proyecto-investigacion/2025/regular/fallo/Nomina_seleccionados_REG2025.pdf).
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+We will be studying the effect of lossy links in the performance of cooperative algorithms for autonomous navigation and for cooperative parameter estimation techniques in collections of autonomous vehicles. We are partnering with Scania, and have the support of several national and international collaborators. 
 
-#### Hipster list
+#### Research Team
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Dr Francisco Vargas<sup>*</sup> (UTFSM, Chile)</li>
+    <li>Dr Alejandro Maass<sup>*</sup> (PUC, Chile)</li>
+    <li>Dr Cristian Fuentes<sup>*</sup> (UAI, Chile)</li>
+    <li>Dr Dante Kalise (Imperial College London, UK)</li>
+    <li>Dr Young-Pil Choi (Yonsei University, Republic of Korea)</li>
+    <li>Prof Jie Chen (Hong Kong City University, Hong Kong)</li>
+    <li>Dr Cristian Rojas (KTH, Sweden)</li>
+    <li>Dr Patricio Valenzuela (Scania, Sweden)</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+<sup>*</sup>: Co-Researcher
+
+We have secured funding for equipment, stipends, and travel, in order to further strengthen our collaboration network. 
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+Moreover, the project will enable the proper and effective use of the [Quanser Self Driving Car Studio](https://www.quanser.com/products/self-driving-car-studio/) which was awarded recently to UTFSM and UAI in a Fondequip project.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+> We believe that this grant will provide an excellent opportunity to tackle the diverse challenges faced by the intelligent transportation systems of the future.
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
