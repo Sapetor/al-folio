@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sapetor.github.io/sitemap.xml
+Sitemap: https://sapetor.github.io/al-folio/sitemap.xml
