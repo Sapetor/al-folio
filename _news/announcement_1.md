@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr Miaomiao Wang (Hong Kong City University) will visit us in UAI from February 17 until March 6. 
+Dr Miaomiao Wang (Hong Kong City University) will visit us in UAI from February 28 until March 13. 

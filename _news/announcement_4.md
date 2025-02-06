@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2025-02-05 17:57:00-0400
+date: 2025-02-06 20:27:00-0400
 inline: true
 related_posts: false
 ---
 
-Test
+[Fondecyt Regular at UAI news!](https://www.uai.cl/noticias/ingenieria-y-ciencias/de-exoplanetas-a-mega-sequias-los-proyectos-fondecyt-2025-de-la-facultad-de-ingenieria-y-ciencias)
 
