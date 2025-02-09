@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
-
 Sitemap: https://sapetor.github.io/sitemap.xml
