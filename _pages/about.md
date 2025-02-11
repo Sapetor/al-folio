@@ -4,24 +4,113 @@ title: about
 permalink: /
 subtitle: Associate Professor · Faculty of Engineering and Sciences · Universidad Adolfo Ibáñez
 
+seo:
+  description: Academic website of Andres Peters (Andrés Peters). Associate Professor at the Faculty of Engineering and Sciences, Universidad Adolfo Ibáñez (UAI), Santiago, Chile.
+  keywords: Andres Peters, Andrés Peters, control systems, vehicle platoons, string stability, formation control, UAI Chile
+  alternate_names: 
+    - Andres Peters
+    - Andres A Peters
+    - Peters Andres
+    - Andres Peters UAI
+
 profile:
   align: right
   image: prof_pic.jpg
+  alt_text: "Profile photo of Professor Andrés Peters"
   image_circular: false
   more_info: >
-    <p>Faculty of Engineering and Sciences</p>
-    <p>Universidad Adolfo Ibáñez</p>
-    <p>Diagonal Las Torres 2640, Of. 309-D</p>
-    <p>Peñalolén, Santiago, Chile</p>
+    <div class="contact-info" style="font-family: 'Roboto', sans-serif; color: #666;">
+      <p class="mb-1" style="font-weight: 300; line-height: 1.2;">Faculty of Engineering and Sciences</p>
+      <p class="mb-1" style="font-weight: 300; line-height: 1.2;">Universidad Adolfo Ibáñez</p>
+      <p class="mb-1" style="font-weight: 300; line-height: 1.2;">Av. Diag. Las Torres 2640, Of. 309-D</p>
+      <p class="mb-1" style="font-weight: 300; line-height: 1.2;">Peñalolén, Santiago, Chile</p>
+    </div>
 
 news: true
 selected_papers: true
 social: true
+
+serve_og_meta: true 
+serve_schema_org: true
+schema_markup: >
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Andrés Peters",
+    "alternateName": ["Andres Peters", "Andres A. Peters", "A. Peters", "Peters, Andres"],
+    "givenName": "Andrés",
+    "familyName": "Peters",
+    "jobTitle": "Associate Professor",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Universidad Adolfo Ibáñez",
+      "alternateName": "UAI",
+      "url": "https://www.uai.cl",
+      "department": "Faculty of Engineering and Sciences"
+    },
+    "url": "https://sapetor.github.io",
+    "sameAs": [
+      "https://scholar.google.com/citations?user=MrFi22oAAAAJ",
+      "https://orcid.org/0000-0003-3282-770X",
+      "https://www.linkedin.com/in/andrés-peters-4a57a541",
+      "https://github.com/Sapetor"
+    ],
+    "workLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Santiago",
+        "addressRegion": "Peñalolén",
+        "addressCountry": "Chile",
+        "streetAddress": "Diagonal Las Torres 2640, Of. 309-D"
+      }
+    },
+    "knowsAbout": [
+      "Control Systems Theory",
+      "Multi-agent Systems",
+      "Formation Control",
+      "Vehicle Platooning",
+      "String Stability",
+      "Networked Control Systems",
+      "Robotics",
+      "Automation"
+    ],
+    "alumniOf": [
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "National University of Ireland, Maynooth",
+        "url": "https://www.maynoothuniversity.ie"
+      },
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "Universidad Técnica Federico Santa María",
+        "url": "https://www.usm.cl"
+      }
+    ],
+    "award": [
+      "ANID/FONDECYT Regular 1251406 (2025-2029)",
+      "ANID/FONDECYT Iniciación 11221365 (2022-2025)",
+      "ANID/FONDECYT Postdoctorado 3160738 (2015-2018)"
+    ],
+    "teaches": [
+      "Modeling and Control of Multi-agent Systems",
+      "Fundamentals of Electrical Engineering",
+      "Control Theory",
+      "Robotics"
+    ]
+  }
+
 ---
+
+<div class="d-none" aria-hidden="true">
+  Also known as: Andres Peters, Andres A Peters, Peters Andres
+  Professor at Universidad Adolfo Ibáñez (UAI)
+  Control Systems and Robotics Researcher in Chile
+</div>
 
 My research focuses on control systems theory and its applications, with particular emphasis on multi-agent systems and formation control. I am also an embedded systems enthusiast and I pursue their use in teaching and industrial applications. I am currently also the Director of our Computer Engineering BSc program at UAI.
 
-Please do not heasitate to contact me (andres (dot) peters (at) uai (dot) cl) if you are interested in our postgraduate programs at UAI ([MCI - Magíster en Ciencias de la Ingeniería](https://www.uai.cl/postgrados/master-of-science/magister-en-ciencias-de-la-ingenieria) [DDS - Doctorado en Data Science](https://www.uai.cl/postgrados/doctorados/doctorado-en-data-science))
+Please do not heasitate to contact me (andres (dot) peters (at) uai (dot) cl) if you are interested in our postgraduate programs at UAI ([MCI - Magíster en Ciencias de la Ingeniería](https://www.uai.cl/postgrados/master-of-science/magister-en-ciencias-de-la-ingenieria) and [DDS - Doctorado en Data Science](https://www.uai.cl/postgrados/doctorados/doctorado-en-data-science))
 
 ## Research Interests
 
@@ -50,4 +139,4 @@ I supervise both undergraduate and graduate students in research projects relate
 - Robotics and automation
 - String stability analysis
 - Experimental validation of control algorithms
-- Other random topics that amuse me such as sports related projects and Data-Driven approaches in Control and automation.
+- Other random topics that amuse me such as sports related projects and data-driven methods in control and automation.
