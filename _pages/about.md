@@ -108,6 +108,15 @@ schema_markup: >
   Control Systems and Robotics Researcher in Chile
 </div>
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+
 My research focuses on control systems theory and its applications, with particular emphasis on multi-agent systems and formation control. I am also an embedded systems enthusiast and I pursue their use in teaching and industrial applications. I am currently also the Director of our Computer Engineering BSc program at UAI.
 
 Please do not heasitate to contact me (andres (dot) peters (at) uai (dot) cl) if you are interested in our postgraduate programs at UAI ([MCI - Magíster en Ciencias de la Ingeniería](https://www.uai.cl/postgrados/master-of-science/magister-en-ciencias-de-la-ingenieria) and [DDS - Doctorado en Data Science](https://www.uai.cl/postgrados/doctorados/doctorado-en-data-science))
