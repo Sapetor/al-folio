@@ -1,6 +1,39 @@
 {
+  "dependencies": {
+    "lucide-react": "^0.263.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
   "devDependencies": {
+    "@babel/cli": "^7.22.0",
+    "@babel/core": "^7.26.8",
+    "@babel/preset-env": "^7.26.8",
+    "@babel/preset-react": "^7.26.3",
     "@shopify/prettier-plugin-liquid": "^1.4.0",
-    "prettier": "3.1.1"
-  }
+    "babel-loader": "^9.2.1",
+    "prettier": "3.1.1",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.0"
+  },
+  "scripts": {
+    "build:components": "babel _components --out-dir assets/js/components --presets @babel/preset-react",
+    "build": "webpack --mode production",
+    "start": "webpack serve --mode development"
+  },
+  "name": "al-folio",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "purgecss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sapetor/sapetor.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sapetor/sapetor.github.io/issues"
+  },
+  "homepage": "https://github.com/Sapetor/sapetor.github.io#readme"
 }

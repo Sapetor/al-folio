@@ -1,6 +1,7 @@
 ---
 layout: about
 title: about
+slug: about
 permalink: /
 subtitle: Associate Professor · Faculty of Engineering and Sciences · Universidad Adolfo Ibáñez
 
