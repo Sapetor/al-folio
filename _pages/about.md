@@ -6,13 +6,18 @@ permalink: /
 subtitle: Associate Professor · Faculty of Engineering and Sciences · Universidad Adolfo Ibáñez
 
 seo:
-  description: Academic website of Andres Peters (Andrés Peters). Associate Professor at the Faculty of Engineering and Sciences, Universidad Adolfo Ibáñez (UAI), Santiago, Chile.
+  description: Academic website of Andres Peters (Andrés Peters). Associate Professor at the Faculty of Engineering and Sciences, Universidad Adolfo Ibáñez (UAI), Santiago, Chile. Specializing in control systems and vehicle platoons.
   keywords: Andres Peters, Andrés Peters, control systems, vehicle platoons, string stability, formation control, UAI Chile
   alternate_names: 
     - Andres Peters
     - Andres A Peters
+    - Andres A. Peters
     - Peters Andres
     - Andres Peters UAI
+    - Peters, A.
+    - Peters, Andres A.
+    - A. Peters,
+    - Andrés Peters Universidad Adolfo Ibáñez
 
 profile:
   align: right
@@ -45,7 +50,7 @@ schema_markup: >
     "worksFor": {
       "@type": "Organization",
       "name": "Universidad Adolfo Ibáñez",
-      "alternateName": "UAI",
+      "alternateName": ["UAI",  "Universidad Adolfo Ibanez"],
       "url": "https://www.uai.cl",
       "department": "Faculty of Engineering and Sciences"
     },
@@ -74,7 +79,14 @@ schema_markup: >
       "String Stability",
       "Networked Control Systems",
       "Robotics",
-      "Automation"
+      "Automation",
+      "Embedded Systems",
+      "Arduino",
+      "ESP32",
+      "Quanser",
+      "Emergent Behavior",
+      "Cucker-Smale",
+      "Fundamental Limits"
     ],
     "alumniOf": [
       {
@@ -105,8 +117,10 @@ schema_markup: >
 
 <div class="d-none" aria-hidden="true">
   Also known as: Andres Peters, Andres A Peters, Peters Andres
-  Professor at Universidad Adolfo Ibáñez (UAI)
+  Professor at Universidad Adolfo Ibáñez (UAI), Universidad Adolfo Ibanez
   Control Systems and Robotics Researcher in Chile
+  Research: vehicle platoons, string stability, formation control
+  Location: Santiago, Chile
 </div>
 
 <div class="row mt-3">

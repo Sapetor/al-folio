@@ -4,13 +4,13 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Andrés
-middle_name: A.
+middle_name: 
 last_name: Peters
 email: andres.peters@uai.cl
 description: >
   Academic website of Andres Peters (Andrés Peters). Associate Professor at the Faculty of Engineering 
   and Sciences, Universidad Adolfo Ibáñez (UAI), Santiago, Chile.
-keywords: Andres Peters, Andrés Peters, control systems, vehicle platoons, string stability, formation control, UAI Chile
+keywords: Andres Peters, Andrés Peters, control systems, vehicle platoons, string stability, formation control, UAI Chile, Andres A. Peters, Universidad Adolfo Ibáñez, Universidad Adolfo Ibanez, Facultad de Ingeniería y Ciencias, Facultad de Ingenieria y Ciencias, UAI, AC3E, leader tracking, control automático, electrónica, arduino, esp32, pl-toon, rupu, stochastic string stability, cucker-smale
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -281,6 +281,10 @@ plugins:
 defaults:
   - scope:
       path: "assets"
+    values:
+      sitemap: false
+  - scope:
+      path: "sample-posts"   
     values:
       sitemap: false
 
