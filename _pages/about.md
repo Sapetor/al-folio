@@ -6,7 +6,10 @@ permalink: /
 subtitle: Associate Professor · Faculty of Engineering and Sciences · Universidad Adolfo Ibáñez
 
 seo:
-  description: Academic website of Andres Peters (Andrés Peters). Associate Professor at the Faculty of Engineering and Sciences, Universidad Adolfo Ibáñez (UAI), Santiago, Chile. Specializing in control systems and vehicle platoons.
+  description: >
+    Associate Professor at Universidad Adolfo Ibáñez specializing in control systems theory, 
+    multi-agent systems, and formation control. Research focuses on decentralized control, 
+    vehicle platooning, and string stability analysis.
   keywords: Andres Peters, Andrés Peters, control systems, vehicle platoons, string stability, formation control, UAI Chile
   alternate_names: 
     - Andres Peters
@@ -132,7 +135,7 @@ schema_markup: >
     </div>
 </div>
 
-My research focuses on control systems theory and its applications, with particular emphasis on multi-agent systems and formation control. I am also an embedded systems enthusiast and I pursue their use in teaching and industrial applications. I am currently also the Director of our Computer Engineering BSc program at UAI.
+My research focuses on control systems theory and its applications, with particular emphasis on multi-agent systems and scalability (string stability) in formation control of autonomous vehicles. I am also an embedded systems enthusiast and I pursue their use in teaching and industrial applications. I am currently also the Director of our Computer Engineering BSc program at UAI.
 
 Please do not heasitate to contact me (andres (dot) peters (at) uai (dot) cl) if you are interested in our postgraduate programs at UAI ([MCI - Magíster en Ciencias de la Ingeniería](https://www.uai.cl/postgrados/master-of-science/magister-en-ciencias-de-la-ingenieria) and [DDS - Doctorado en Data Science](https://www.uai.cl/postgrados/doctorados/doctorado-en-data-science))
 
